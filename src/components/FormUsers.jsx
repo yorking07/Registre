@@ -81,7 +81,7 @@ const handleExit = () =>{
             type="date"
           />
         </label>
-        <button className="form__btn">Guardar</button>
+        <a href="http://127.0.0.1:5500/login.html " className="form__btn">Guardar</a>
       </form>
     </div>
   );
